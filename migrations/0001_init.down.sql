@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS log_segments;
+DROP TABLE IF EXISTS schedules;
+DROP TABLE IF EXISTS job_attempts;
+DROP TABLE IF EXISTS jobs;
+DROP TABLE IF EXISTS workers;
